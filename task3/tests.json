@@ -1,0 +1,11 @@
+{
+  "tests": [
+    { "id": 1, "title": "Test A" },
+    {
+      "title": "Group",
+      "values": [
+        { "id": 2, "title": "Test B" }
+      ]
+    }
+  ]
+}
